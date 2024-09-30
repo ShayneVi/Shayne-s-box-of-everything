@@ -1,0 +1,136 @@
+{
+  "id": "shaynes-box-of-everything",
+  "title": "Shayne's box of everything",
+  "version": "0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "about-time",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "ActiveAuras",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "babonus",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "chris-premades",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "ddb-importer",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dfreds-convenient-effects",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "effectmacro",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "magicitems",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "midi-qol",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dae",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "times-up",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "ATL",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "sequencer",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "smalltime",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "visual-active-effects",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "A compilation of some stuff my brother and I made. Everything is automated by me. Ranging form spells, to classes, subclasses, items, features, etc.",
+  "authors": [
+    {
+      "name": "Shayne",
+      "discord": "Lin Dong",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "shaynes-box-of-everything-items",
+      "label": "Shayne's box of everything Items",
+      "path": "packs/shaynes-box-of-everything-items",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "shaynes-box-of-everything-actors",
+      "label": "Shayne's box of everything Actors",
+      "path": "packs/shaynes-box-of-everything-actors",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "shaynes-box-of-everything-macros",
+      "label": "Shayne's box of everything Macros",
+      "path": "packs/shaynes-box-of-everything-macros",
+      "type": "Macro",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "manifest": "https://www.dropbox.com/scl/fi/zee5dpi3imxvhgo8p7lik/module.json?rlkey=qcc3dlm4omzunfyl1bpfjro0o&st=56m71ojw&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/zzb0exan2i00s7c39uwy6/shaynes-box-of-everything.zip?rlkey=y1of3pusfiieff01ztgv2qtlr&st=kihhq2lj&dl=1"
+
+}
