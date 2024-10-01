@@ -130,7 +130,7 @@
       }
     }
   ],
-  "manifest": "https://www.dropbox.com/scl/fi/zee5dpi3imxvhgo8p7lik/module.json?rlkey=qcc3dlm4omzunfyl1bpfjro0o&st=56m71ojw&dl=1",
-  "download": "https://www.dropbox.com/scl/fi/zzb0exan2i00s7c39uwy6/shaynes-box-of-everything.zip?rlkey=y1of3pusfiieff01ztgv2qtlr&st=kihhq2lj&dl=1"
+  "manifest": "https://github.com/ShayneVi/Shayne-s-box-of-everything/releases/download/v0.1/module.json",
+  "download": "https://github.com/ShayneVi/Shayne-s-box-of-everything/releases/download/v0.1/shaynes-box-of-everything.zip"
 
 }
