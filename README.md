@@ -9,3 +9,7 @@ Star Patron Warlock - A warlock who made a pact with a star, gaining special abi
 
 The new class is:
 Elemental Knight - The elemental Knight Harness the power of the elements flowing through him as he attune himself to them.
+
+
+
+*** The folder "My Stuff" in items, needs to be put as a compendium.
