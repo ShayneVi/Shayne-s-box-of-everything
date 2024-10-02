@@ -1,4 +1,7 @@
 # Shayne-s-box-of-everything
+First I wanna thank the people who have been helping me and teaching me things. I wanna thank Thatlonelybugbear, bakana, MotoMoto.
+And I wanna give a huge thanks to Micheal. I wouldn't have been able to do any of this without your help. You are truly an amazing person my friend and I thank you from the bottom of my heart for being such a good friend and teacher.
+
 (DND 5e 2014 ruleset as of now. Will update it in the future. Does not work with dnd 5e 4.0 as of now either)
 Welcome to my box of everything! In this module you will find all my brother and I's creations. It will range in everything, be it existing things or homebrew created be me and my brother. Everything is automated by myself. The classed and subclasses in this module were not tested thouroughly, so they may be underwhelming or overpowered.  Give me feedback through discord DMs, any kind of feedback to make things better and more balanced is appreciated.
 
