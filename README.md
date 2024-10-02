@@ -12,4 +12,19 @@ Elemental Knight - The elemental Knight Harness the power of the elements flowin
 
 
 
-*** The folder "My Stuff" in items, needs to be put as a compendium.
+*** The folder "My Stuff" in items, needs to be put as a compendium. ***
+
+Dependencies:
+- Midi QoL
+- DAE
+- Cauldron of Plentiful Resources
+- DDB Importer
+- Active Auras
+- About Time
+- Build a Bonus
+- Magic Items
+- Effect Macro
+- Time's up
+- Active Token Effects
+- Sequencer
+- Visual Active Effects
