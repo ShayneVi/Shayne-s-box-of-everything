@@ -13,6 +13,8 @@ Star Patron Warlock - A warlock who made a pact with a star, gaining special abi
 The new class is:
 Elemental Knight - The elemental Knight Harness the power of the elements flowing through him as he attune himself to them.
 
+More to come. Stay tune. Right now I am almost done on the white wizard, a subclass based in gandalf white wizard from lord of the rings and I contacted JonnyDM on DM's guild, and am working on his class Phoenix Knight. 
+
 
 
 *** The folder "My Stuff" in items, needs to be put as a compendium. ***
