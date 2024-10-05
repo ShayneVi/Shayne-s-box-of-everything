@@ -35,3 +35,4 @@ Dependencies:
 - Active Token Effects
 - Sequencer
 - Visual Active Effects
+- Elwin's helpers (for Third party Reactions) 
