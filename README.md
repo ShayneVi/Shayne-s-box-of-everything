@@ -4,6 +4,8 @@ And I wanna give a huge thanks to Micheal. I wouldn't have been able to do any o
 
 (DND 5e 2014 ruleset as of now. Will update it in the future. Does not work with dnd 5e 4.0 as of now either)
 Welcome to my box of everything! In this module you will find all my brother and I's creations. It will range in everything, be it existing things or homebrew created be me and my brother. Everything is automated by myself. The classed and subclasses in this module were not tested thouroughly, so they may be underwhelming or overpowered.  Give me feedback through discord DMs, any kind of feedback to make things better and more balanced is appreciated.
+Contact me on my discord server. I will do my best to reply to everyone.
+https://discord.gg/fvDU4G5u
 
 As of version 0.1, 2 new subclass and one full class (no subclass for that one) are in this module, with a couple of other things.
 The subclasses are:
