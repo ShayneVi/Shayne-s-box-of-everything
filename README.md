@@ -11,12 +11,14 @@ As of version 0.1, 2 new subclass and one full class (no subclass for that one) 
 The subclasses are:
 Arcane Bloodline Sorcerer - A sorcerer who excells at using magic missile spell.
 Star Patron Warlock - A warlock who made a pact with a star, gaining special abilities of constellations.
+White Wizard - a wizard subclass based in gandalf white wizard from lord of the rings
 
 The new class is:
 Elemental Knight - The elemental Knight Harness the power of the elements flowing through him as he attune himself to them.
 
 More to come. Stay tuned!
-Right now I am almost done on the white wizard, a subclass based in gandalf white wizard from lord of the rings and I contacted JonnyDM on DM's guild, and am working on his class Phoenix Knight. 
+I contacted JonnyDM on DM's guild, and am working on his class Phoenix Knight. 
+You can also come on my discord where I will put up a poll for some subclasses and such that I make next.
 
 https://www.dmsguild.com/browse.php?author=JonnyDM
 
